@@ -6,6 +6,8 @@
 
 - Document Intelligence
 
+demo at [Azure AI](https://github.com/lucasdengcn/azure-ai-demo)
+
 ### AWS Solution
 
 ### GCP Solution
